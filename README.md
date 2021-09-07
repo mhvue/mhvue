@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dec. 2021 Advent Calendar project](https://github.com/mhvue/AdventCal)
 
-- 🌱 I’m currently learning **Typescript and React.**
+- 🌱 I’m currently learning **Typescript with React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mhvue](https://github.com/mhvue)
 
