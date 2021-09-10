@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mhvue](https://github.com/mhvue)
 
-- 📝 I regularly write articles on Medium and Learn to Code with me, https://learntocodewith.me/blog/.
-
 - 📫 How to reach me **mhvue4@gmail.com**
 
 - 📄 Know about my experiences [https://mhvue.github.io/portfolio/](https://mhvue.github.io/portfolio/)
