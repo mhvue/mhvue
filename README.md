@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mai Houa Vue</h1>
 <h3 align="center">Fullstack Developer (MERN) who enjoys frontend a little more, but still appreciates backend.</h3>
 
-- 🔭 I’m currently working on [Dec. 2021 Advent Calendar project](https://github.com/mhvue/AdventCal)
+- 🔭 I’m currently working on [Dec. 2022 Advent Calendar project](https://github.com/mhvue/AdventCal)
 
 - 🌱 I’m currently learning **to expand my CSS skills and responsiveness**
 
